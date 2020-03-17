@@ -5,6 +5,10 @@
 
 本课程旨在通过编程学习Python，在解决问题的过程中了解Python编程的基础知识。一起编程，一起爱上Python。
 
+推荐参考书：
+ [《Think Python 2nd Edition》 by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
+中文版： [免费在线浏览](https://codingpy.com/books/thinkpython2/index.html)
+![Think Python 2nd Edition](https://github.com/fly51fly/Practical_Python_Programming/blob/master/images/Think_Python_2ed.jpg)
 
 |  日期   | 内容  | 视频 |
 |  ----  | ----  |  ----  |
