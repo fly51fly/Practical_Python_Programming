@@ -21,4 +21,5 @@
 | -  | 第3讲答疑 |  [L3.1](https://www.bilibili.com/video/av92186118?p=7) |
 | -  | 手把手：配置Sublime Text3编程环境 |  [L3.2](https://www.bilibili.com/video/av92186118?p=8) |
 | -  | 聊聊hash函数与id函数 |  [L3.3](https://www.bilibili.com/video/av92186118?p=9) |
-| 2020.3.20 | 第4讲：玩转简单加密 ![第四课思维导图](https://github.com/fly51fly/Practical_Python_Programming/blob/master/images/class_4_001.jpg)|  [L3.3](https://www.bilibili.com/video/av92186118?p=10) |
+| 2020.3.20 | 第4讲：玩转简单加密 ![第四课思维导图](https://github.com/fly51fly/Practical_Python_Programming/blob/master/images/class_4_001.jpg)|  [L4.1](https://www.bilibili.com/video/av92186118?p=10) |
+| -  | 第4讲答疑（[问题列表](https://github.com/fly51fly/Practical_Python_Programming/blob/master/questions/question_004.md)）|  [L4.2](https://www.bilibili.com/video/av92186118?p=11) |
