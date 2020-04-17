@@ -36,4 +36,5 @@
 学习资源推荐：  
 1. [中文 Python 笔记](https://github.com/lijin-THU/notes-python)  
 2. [千行代码入门Python](https://github.com/xianhu/LearnPython)  
-3. [Python代码运行可视化](http://www.pythontutor.com/index.html)
+3. [Python代码运行可视化](http://www.pythontutor.com/index.html)  
+4. [正则表达式调试/可视化](https://regexr.com/)
