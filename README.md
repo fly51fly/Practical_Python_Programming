@@ -32,10 +32,12 @@
 | -  | 第7讲答疑（[问题列表](https://github.com/fly51fly/Practical_Python_Programming/blob/master/questions/question_007.md)）<br>摘要：类变量与实例变量详解、字典到底有序还是无序、数据缺失如何处理、函数内定义的变量能否在全局使用、元组与集合的区别、Python是否有模板类、可变对象为什么不能hash()、Python的多变量赋值用法、Python能否读写Excel、类方法self参数的用法、三引号的用法、C++与Python的搭配使用、is和==的区别等 | [L7.2](https://www.bilibili.com/video/av92186118?p=18)  |
 | 2020.4.17 | 第8讲：CSV与正则表达式<br>摘要：Excel与Python代码通过CSV文件进行数据交换、Python读取csv文件、正则表达式基础、利用文本编辑器正则表达式搜索/替换实现数据规整、Python的re正则库、用re.findall()实现代码里的正则匹配、利用工具与纯代码实现的权衡。 <br/>代码：[Jupyter Notebook](https://github.com/fly51fly/Practical_Python_Programming/blob/master/code/Python_Class_8.ipynb) <br> ![第七课思维导图](https://github.com/fly51fly/Practical_Python_Programming/blob/master/images/class_8_001.jpg)|  [L8.1](https://www.bilibili.com/video/av92186118?p=19) |
 | -  | 第8讲答疑（[问题列表](https://github.com/fly51fly/Practical_Python_Programming/blob/master/questions/question_008.md)）<br>摘要：CSV和正则还有什么用、正则表达式是否会出现歧义、CSV文件出现乱码怎么办、正则表达式取子串的方法、正则表达式非贪婪符号的使用、如何创建CSV文件、正则表达式是否能匹配中文、re库除了findall还有什么有用的函数、"UTF-8-sig"和"UTF-8"两种编码方式的差别 | [L8.2](https://www.bilibili.com/video/av92186118?p=20)  |
-
+| 2020.4.24 | 第9讲：类的继承与递归的实现<br>摘要：字典get()函数的用法、字符串的upper()/lower()大小写转换函数、用''.join()实现字符串拼接、列表推导的实际应用、长距离一致缩进要多加小心、问题升级——平滑莫尔斯编码的引入、字符串replace()替换函数的使用、类的继承、类成员函数的重载、从手工解码过程中提炼思路、递归的主要思路、可用递归解决问题的特点、max()/min()函数的使用、递归函数重复处理过程和截止条件的确定。 <br/>代码：[Jupyter Notebook](https://github.com/fly51fly/Practical_Python_Programming/blob/master/code/Python_Class_9.ipynb) <br> ![第七课思维导图](https://github.com/fly51fly/Practical_Python_Programming/blob/master/images/class_9_001.jpg)|  [L9.1](https://www.bilibili.com/video/av92186118?p=21) |
 
 学习资源推荐：  
 1. [中文 Python 笔记](https://github.com/lijin-THU/notes-python)  
 2. [千行代码入门Python](https://github.com/xianhu/LearnPython)  
 3. [Python代码运行可视化](http://www.pythontutor.com/index.html)  
-4. [正则表达式调试/可视化](https://regexr.com/)
+4. [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)  
+4. [正则表达式调试/可视化](https://regexr.com/)  
+5. [正则表达式图形式可视化](https://jex.im/regulex)  
