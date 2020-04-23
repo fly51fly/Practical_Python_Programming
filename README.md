@@ -39,5 +39,6 @@
 2. [千行代码入门Python](https://github.com/xianhu/LearnPython)  
 3. [Python代码运行可视化](http://www.pythontutor.com/index.html)  
 4. [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)  
-4. [正则表达式调试/可视化](https://regexr.com/)  
-5. [正则表达式图形式可视化](https://jex.im/regulex)  
+5.   [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/)  
+6.  [正则表达式调试/可视化](https://regexr.com/)  
+7. [正则表达式图形式可视化](https://jex.im/regulex)  
