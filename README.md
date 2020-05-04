@@ -36,6 +36,7 @@
 | -  | PytonTutor的使用及本地化运行指南 <br>摘要：PythonTutor主要功能、PythonTutor使用详解、自己搭建本地PythonTutor服务 |  [L9.2](https://www.bilibili.com/video/av92186118?p=22) |
 | -  | 明明白白学递归 <br>摘要：什么是递归？什么问题可以用递归？如何设计并实现递归？带你学个通通透透！ |  [L9.3](https://www.bilibili.com/video/av92186118?p=23) |
 | -  | 第9讲答疑（[问题列表](https://github.com/fly51fly/Practical_Python_Programming/blob/master/questions/question_009.md)）<br>摘要：递归函数入口和被递归调用函数间是否要做区分、递归的适用场景、递归能否用循环代替、递归截止条件有没有其他表示方法、notebooks里某个cell一直运行中如何处理、format字符串格式化的使用、用字典+正则实现批量替换、Python递归与C/C++递归的差别、多继承与多重继承、Python里类有没有私有成员、递归的效率问题、split()函数切割长度的控制、继承的类是否可以改变类变量、是否所有类都能继承、多继承的顺序、继承类的初始化问题、代码里太长的数据定义如何简化、tsv文件和csv文件的区别、如何用Python处理tsv文件等。 | [L9.4](https://www.bilibili.com/video/av92186118?p=24)  |
+| 2020.5.8 | 第10讲：解码之路<br>摘要：候选解码结果的筛选思路——加字典/常用词词典/高频词排序词典、用循环遍历/列表推导/filter()函数结合lambda内联函数/集合运算四种方式实现数据过滤、用词典缩减/递归深度缩减实现解码优化、字符级与单词级解码、用空间换时间、递归思维、类比思维等。 <br/>代码：[Jupyter Notebook](https://github.com/fly51fly/Practical_Python_Programming/blob/master/code/Python_Class_10.ipynb) <br> ![第十课思维导图](https://github.com/fly51fly/Practical_Python_Programming/blob/master/images/class_10_001.jpg)|  [L9.1](https://www.bilibili.com/video/av92186118?p=25) |
 
 学习资源推荐：  
 1. [中文 Python 笔记](https://github.com/lijin-THU/notes-python)  
