@@ -41,6 +41,7 @@
 | 2020.5.15 | 第11讲：反向最大匹配解码与爬虫初步<br>摘要：基于优先匹配长词的想法，用递归实现反向最大匹配解码；初步了解爬虫的基本概念、基本流程；采、抽、存三步走的简单实现；了解requests使用、回顾正则表达式的配置和re正则库的使用。 <br/>代码：[Jupyter Notebook](https://github.com/fly51fly/Practical_Python_Programming/blob/master/code/Python_Class_11.ipynb) <br> ![第十一课思维导图](https://github.com/fly51fly/Practical_Python_Programming/blob/master/images/class_11_001.jpg)|  [L11.1](https://www.bilibili.com/video/av92186118?p=27) |
 | -  | 网络爬虫第0课：浏览器背后干的那些事儿<br>摘要：了解、开发爬虫必须了解的HTTP/HTML知识，从输入网址到看见网页，浏览器背地里干的那些事儿。 | [L11.2](https://www.bilibili.com/video/av92186118?p=28)  |
 | -  | 第11讲答疑（[问题列表](https://github.com/fly51fly/Practical_Python_Programming/blob/master/questions/question_011.md)）<br>摘要：爬虫有什么“高级”应用、什么样的网站是“软柿子”、正向最大匹配能用吗、pyquery与jQuery、爬虫难吗、图片影片怎么爬、玩转正则需要记住吗、网站反爬有哪些手段、爬网页要遵守的规定、递归过程中最小值的定义、网站是不是都能爬、requests的header部分是做什么的、百度网分享链接和分析密码的爬取策略、正则表达式如何匹配“所有符号”、get和post的区别、爬虫与数据可视化、爬虫翻页链接的处理、学爬虫有什么好课程、对课上的“干货”力不从心怎么办、有没有可能不分析页面源码也能做抽取、反爬常用手段、验证码问题怎么解决等。 | [L11.3](https://www.bilibili.com/video/av92186118?p=29)  |
+| 2020.5.22 | 第12讲：爬虫框架初步设计与B站豆瓣初步尝试<br>摘要：构建爬虫基础类(框架)，了解框架、脚手架和库的差别，复习类的设计和构建，对B站和豆瓣的排行榜进行采集，构建完整的信息抽取用正则表达式，熟悉RegexBuilder等正则调试工具的使用，用copy as Curl->requests技巧“克隆”浏览器的访问请求。 <br/>代码：[Jupyter Notebook](https://github.com/fly51fly/Practical_Python_Programming/blob/master/code/Python_Class_12.ipynb) <br> ![第十二课思维导图](https://github.com/fly51fly/Practical_Python_Programming/blob/master/images/class_12_001.jpg)|  [L12.1](https://www.bilibili.com/video/av92186118?p=30) |
 
 学习资源推荐：  
 1. [中文 Python 笔记](https://github.com/lijin-THU/notes-python)  
