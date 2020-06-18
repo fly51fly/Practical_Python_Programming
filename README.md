@@ -49,6 +49,7 @@
 | - | 第14讲答疑（[问题列表](https://github.com/fly51fly/Practical_Python_Programming/blob/master/questions/question_014.md)）<br />摘要：如何深入了解xpath、xpath能否完全代替正则表达式、大爬虫也需要对每个网页配置抽取表达式吗、访问图片时拒绝访问如何处理、xpath里的@href什么意思、xpath的绝对路径和相对路径有何区别、DOM树与C++的树一样吗、xpath与正则表达式适用场景如何效率比较及怎样选择、遇到具体变成问题怎么找解决方案、xpath helper安装不了怎么办、lxml解析为什么要解码、表格数据如何采集、DOM和xpath的关系、pycharm怎么安装lxml、爬虫在生活中的应用、豆瓣书名副标题的采集问题、包含子节点的节点如何获取全部文本、xpath能否用于普通字符串、beautifulsoup和lxml在解析方面有什么区别吗、python能提供网页服务吗、模型到底是什么、没有插件如何快速获取xpath等。 | [L14.2](https://www.bilibili.com/video/BV1b7411N7P2?p=35) |
 | 2020.6.12 | 第15讲：翻页的爬取和采集目标分析方法<br />摘要：翻页链接的获取思路、末尾页链接的检测、程序的迭代改进、从解决问题的角度思考编程过程、培养对程序的“审美”、对特殊情况的推演思路、重用与可读性、url encode/quote的使用、对网站数据可用性和扩展渠道的考察。 | [L15.1](https://www.bilibili.com/video/BV1b7411N7P2?p=36) |
 | - | 第15讲答疑（[问题列表](https://github.com/fly51fly/Practical_Python_Programming/blob/master/questions/question_015.md)）<br />摘要：如何采集音乐网站并播放音乐、豆瓣爬虫能否为书做个类、翻页能否从最后往前翻、urllib库为什么没提供urldecode函数、采集的数据用什么形式存比较好、为什么翻页经常是start=0/20/40而不是page=1、搜索引擎也是爬虫吗、能否用正则实现翻页信息采集、采集信息不全时的解决思路、页面跳转如何采集、怎样将数据方便导入Excel、爬虫 vs. 镜像、做爬虫会违法吗、动态网页或局部刷新网页的爬取、爬虫翻页没有尾页的处理方式、这是最后一节课吗…… | [L15.2](https://www.bilibili.com/video/BV1b7411N7P2?p=37) |
+| 2020.6.19 | 第16讲：多级采集与多线程<br />摘要：标签采集与图书列表也采集结合的嵌套二级采集，多线程编程的相关概念：进程、线程、同步/异步、阻塞式/非阻塞式、线程池等，用concurrent.futures标准库实现多线程并行采集。 | [L16.1](https://www.bilibili.com/video/BV1b7411N7P2?p=38) |
 
 1. [中文 Python 笔记](https://github.com/lijin-THU/notes-python)  
 2. [千行代码入门Python](https://github.com/xianhu/LearnPython)  
