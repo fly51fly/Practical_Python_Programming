@@ -52,6 +52,7 @@
 | 2020.6.19 | 第16讲：多级采集与多线程<br />摘要：标签采集与图书列表也采集结合的嵌套二级采集，多线程编程的相关概念：进程、线程、同步/异步、阻塞式/非阻塞式、线程池等，用concurrent.futures标准库实现多线程并行采集。<br />代码：[Jupyter Notebook](https://github.com/fly51fly/Practical_Python_Programming/blob/master/code/Python_Class_16.ipynb) | [L16.1](https://www.bilibili.com/video/BV1b7411N7P2?p=38) |
 |  | 第16讲答疑（[问题列表](https://github.com/fly51fly/Practical_Python_Programming/blob/master/questions/question_016.md)）<br />摘要：GIL是什么、为什么线程池适用于IO密集型场景而进程池适用于计算密集型场景、多进程有什么实际应用、爬着爬着就什么也采集不到了是被发现了吗、为什么多线程能提高运行速度、二级列表很多页的时候怎么设置采集规则、线程池用完变空后还会占内存吗、豆瓣爬虫会限制爬取信息的数量么、多线程方式采集的上限取决于什么、如何确定爬虫程序最优线程个数、多线程采集如何保留项目在原页面的顺序信息等。 | [L16.2](https://www.bilibili.com/video/BV1b7411N7P2?p=39) |
 | | 第17讲、深入探索多线程<br />摘要：多线程的调度顺序，原子操作的概念，f"{}"字符串简化格式化的用法，print默认参数的“秘密”，信号量的概念，用信号量保证“原子操作”，非定向爬虫的概念，搜索引擎的基本原理。<br />代码：[Jupyter Notebook](https://github.com/fly51fly/Practical_Python_Programming/blob/master/code/Python_Class_17.ipynb) | [L17.1](https://www.bilibili.com/video/BV1b7411N7P2?p=40) |
+| 2020.7.10 | 第18讲、任务队列与多线程<br />摘要：队列和任务队列的概念和意义，多线程对任务队列的控制，线程池的“静态”线程用法，多线程的细化控制。<br />代码：[Jupyter Notebook](https://github.com/fly51fly/Practical_Python_Programming/blob/master/code/Python_Class_18.ipynb) | [L18.1](https://www.bilibili.com/video/BV1b7411N7P2?p=41) |
 
 1. [中文 Python 笔记](https://github.com/lijin-THU/notes-python)  
 2. [千行代码入门Python](https://github.com/xianhu/LearnPython)  
